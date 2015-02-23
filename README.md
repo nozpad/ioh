@@ -1,5 +1,5 @@
 # ioh
-InternetOfHealth 
+##InternetOfHealth 
 This week we have launched our mass education program about breathing rhythm and its health values also called nasal cycle. Our rhythm of breathing ideally switches from Left-Right-Left in every 2-3 hours. BUT this switch is not guaranteed and often is short, long or erratic for many people.
 
 Many wearable companies often confuse rhythm with temporal distribution of air pressure during inspiration and expiration. But that is just rate of breathing.
